@@ -1,23 +1,15 @@
 {
-  "name": "openNAMU",
+  "name": "ekiwi",
   "version": "1.0.0",
-  "description": "wasans",
+  "description": "오픈나무 ==== [![Python 3.5 이상](https://img.shields.io/badge/python->=%203.5-blue.svg)](https://python.org) [![라이선스](https://img.shields.io/badge/license-BSD%203--Clause-lightgrey.svg)](./LICENSE)",
   "main": "app.py",
-  "dependencies": {},
-  "devDependencies": {},
   "scripts": {
-    "start": "python3 app.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "python3 app.py"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eundaenged/openNAMU.git"
+    "url": "openNAMU"
   },
-  "keywords": [],
-  "author": "EunDaengED",
-  "license": "BSD 3-Clause",
-  "bugs": {
-    "url": "https://github.com/eundaenged/openNAMU/issues"
-  },
-  "homepage": "https://github.com/eundaenged/openNAMU#readme"
+  "author": "",
+  "license": "BSD-3-Clause"
 }
