@@ -1,0 +1,23 @@
+{
+  "name": "openNAMU",
+  "version": "1.0.0",
+  "description": "wasans",
+  "main": "app.py",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start": "python3 app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eundaenged/openNAMU.git"
+  },
+  "keywords": [],
+  "author": "EunDaengED",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eundaenged/openNAMU/issues"
+  },
+  "homepage": "https://github.com/eundaenged/openNAMU#readme"
+}
