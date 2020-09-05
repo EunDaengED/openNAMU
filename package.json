@@ -4,7 +4,7 @@
   "description": "오픈나무 ==== [![Python 3.5 이상](https://img.shields.io/badge/python->=%203.5-blue.svg)](https://python.org) [![라이선스](https://img.shields.io/badge/license-BSD%203--Clause-lightgrey.svg)](./LICENSE)",
   "main": "app.py",
   "scripts": {
-    "start": "python3 app.py"
+    "start": "python3 app.py",
     "test": "python3 app.py"
   },
   "repository": {
